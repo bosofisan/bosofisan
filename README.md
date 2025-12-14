@@ -34,8 +34,7 @@ I build fault-tolerant, cost-efficient platforms that enable engineering teams t
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin) *(update with your actual LinkedIn)*
-- 📧 boluosofisan@gmail.com
+- 💼 www.linkedin.com/in/lulu-o-46988b75
 - 📍 New York, NY
 
 ---
