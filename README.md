@@ -17,15 +17,32 @@ I build fault-tolerant, cost-efficient platforms that enable engineering teams t
 **IaC & Automation:** Terraform, GitOps, CI/CD (GitHub Actions)  
 **Observability:** Prometheus, Grafana, CloudWatch, distributed tracing  
 **Languages:** Python, Go, Bash, SQL  
-
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [dockerized-app-ci](https://github.com/bosofisan/dockerized-app-ci) | Containerized Node.js app with CI/CD pipeline | Docker, AWS ECS, GitHub Actions |
-| [k8s-deployment-demo](https://github.com/bosofisan/k8s-deployment-demo) | Microservice deployment with Kubernetes | Kubernetes, Helm, YAML |
-| [terraform-aws-infra](https://github.com/bosofisan/terraform-aws-infra) | Infrastructure-as-Code for AWS | Terraform, AWS |
-| [monitoring-stack](https://github.com/bosofisan/monitoring-stack) | Observability with Prometheus + Grafana | Prometheus, Grafana, K8s |
+### [LLM Inference Platform](https://github.com/bosofisan/llm-inference-platform)
+Production-grade LLM serving infrastructure with FastAPI, Kubernetes autoscaling, streaming responses, and comprehensive observability. Demonstrates real-world ML infrastructure patterns used by companies like Scale AI and Anthropic.
+
+**Key Features:**
+- FastAPI with Server-Sent Events for real-time token streaming
+- Kubernetes HPA (2-10 replicas) with zero-downtime rolling updates
+- Prometheus metrics, structured logging, rate limiting, fault tolerance
+- Multi-stage Docker builds, security best practices, AWS EKS deployment
+
+**Tech Stack:** FastAPI, Kubernetes, Docker, Prometheus, AWS EKS, Python
+
+---
+
+### [Terraform AWS Infrastructure](https://github.com/bosofisan/Terraform-AWS-App)
+Infrastructure-as-Code for AWS application deployment with automated CI/CD pipeline.
+
+**Tech Stack:** Terraform, AWS (EC2, VPC, IAM), GitHub Actions
+
+---
+
+### [Dockerized CI/CD Application](https://github.com/bosofisan/dockerized-app-ci)
+Containerized Node.js application with automated deployment pipeline to AWS ECS.
+
+**Tech Stack:** Docker, AWS ECS, GitHub Actions, Node.js
 
 ## 🎓 Certifications
 
